@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/open_info_page"
+        android:title="@string/about_song"/>
+    <item
+        android:id="@+id/open_artist_page"
+        android:title="@string/about_artist"/>
+    <item
+        android:id="@+id/play"
+        android:title="@string/play_song"/>
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="make_playlist">Make Playlist</string>
+    <string name="invert_selection">Invert</string>
+    <string name="clear_all">Clear All</string>
+    <string name="check_all">Select All</string>
+
+    <string name="about_song">Aboout Song</string>
+    <string name="play_song">Play Song</string>
+    <string name="about_artist">Aboout Artist</string>
+
+
+</resources>
